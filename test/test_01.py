@@ -3,7 +3,7 @@ from _01_Hello_World.Hello_World import main
 
 
 def test():
-    assert "Hello, World!" == "Hello, World!"
+    assert main() == "Hello, World!"
 
 
 if __name__ == '__main__':
