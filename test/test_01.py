@@ -1,5 +1,5 @@
 # ！不要修改这里的内容
-
+from _01_Hello_World.Hello_World import main
 
 
 def test():
